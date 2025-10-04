@@ -14,19 +14,18 @@ My main focus is on **Cloud Security** and **DevSecOps**, with an emphasis on bu
 ---
 
 ## Selected Projects
-A few repositories I am currently developing and improving:
 
-- [**IAM Least Privilege Lab**](https://github.com/pantelovich/iam-least-privilege-lab)  
-  A hands-on IAM lab with Terraform demonstrating the difference between over-permissive policies and well-scoped least-privilege access, including explicit deny guardrails and reproducible CLI test cases.  
+### [**Cloud Threat Detection & Response Lab**](https://github.com/pantelovich/cloud-threat-detection-lab)
+A Terraform-based lab that simulates and detects cloud security incidents using **AWS GuardDuty**, **CloudWatch**, and **SNS**.  
+It demonstrates automated threat detection, alerting, and response workflows in real-world AWS environments.
 
-- [**Secure 3-Tier Cloud App**](https://github.com/pantelovich/cloud-secure-3tier)  
-  A secure three-tier web application deployed on AWS using Terraform. Includes VPC segmentation, security groups, RDS encryption, CloudTrail, and VPC Flow Logs.  
+### [**Serverless Secure Web App**](https://github.com/pantelovich/serverless-secure-webapp)
+A secure, serverless application built with **AWS Lambda**, **API Gateway**, **WAF**, and **RDS**.  
+Implements least-privilege IAM roles, encrypted storage, and **Secrets Manager** integration for secure credential handling.
 
-- [**Secure File Encryption Tool**](https://github.com/pantelovich/Secure-File-Encryption-Tool)  
-  A Python command-line tool that encrypts and decrypts files with AES, using password-derived keys.  
-
-- [**AWS S3 Bucket Manager**](https://github.com/pantelovich/AWS-S3-Bucket-Manager)  
-  A simple Python tool to create, list, and manage S3 buckets securely from the command line.  
+### [**IAM Least Privilege Lab**](https://github.com/pantelovich/iam-least-privilege-lab)
+A hands-on Terraform lab demonstrating **IAM least-privilege principles** and the impact of over-permissive policies.  
+Includes explicit deny guardrails and reproducible CLI test cases.
 
 ---
 
