@@ -27,7 +27,7 @@ Implements least-privilege IAM roles, encrypted storage, and **Secrets Manager**
 A hands-on Terraform lab demonstrating **IAM least-privilege principles** and the impact of over-permissive policies.  
 Includes explicit deny guardrails and reproducible CLI test cases.
 
-### [**Cloud Incident Response Lab**](https://github.com/pantelovich/cloud-incident-response-lab))
+### [**Cloud Incident Response Lab**](https://github.com/pantelovich/cloud-incident-response-lab)
 A Terraform + Lambda lab that automates response to AWS GuardDuty findings. It detects threats on EC2, stops or isolates compromised instances, and sends alerts via SNS.
 ---
 
